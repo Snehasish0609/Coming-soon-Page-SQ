@@ -21,7 +21,7 @@ body {
       rgba(183, 26, 125, 0.4) 119.42%,
       rgba(175, 17, 17, 0.4) 119.42%
     ),
-    url(./image/pexels-aleksandar-pasaric-1694000.jpg);
+    url(pexels-aleksandar-pasaric-1694000.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
